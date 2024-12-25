@@ -66,5 +66,6 @@
 
 https://wiki.merionet.ru/articles/planirovshhik-cron-zapusk-programm-po-raspisaniyu?ysclid=m52jpx4q8z571098861
 
-
+https://www.tutorialspoint.com/10-cron-scheduling-task-examples-in-linux
    
+https://www.google.ru/
